@@ -13,5 +13,5 @@ mccabe==0.6.1
 pylint==1.9.1
 six==1.11.0
 unicodedata2==10.0.0.post2
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 wrapt==1.10.11
